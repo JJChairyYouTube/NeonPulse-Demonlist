@@ -1,1 +1,17 @@
-
+ "id": 137,
+    "name": "Armed And Ready",
+    "author": "Stretcho",
+    "creators": [],
+    "verifier": "Stretcho",
+    "verification": "https://www.youtube.com/watch?v=bL9QG8H31Sk",
+    "percentToQualify": "85",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "No victor's yet!",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
