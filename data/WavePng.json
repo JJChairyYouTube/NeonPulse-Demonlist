@@ -1,1 +1,18 @@
-
+{
+    "id": 135,
+    "name": "Wane Png",
+    "author": "Riot",
+    "creators": [],
+    "verifier": "Riot",
+    "verification": "https://www.youtube.com/watch?v=E8cVA5y8y74",
+    "percentToQualify": "70",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "No victor's yet!",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
