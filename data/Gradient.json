@@ -1,1 +1,18 @@
-
+{
+    "id": 145,
+    "name": "Gradient",
+    "author": "Bazhq",
+    "creators": [],
+    "verifier": "Bazhq",
+    "verification": "https://www.youtube.com/watch?v=GKZmq-GKhdM",
+    "percentToQualify": "85",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "No victor's yet!",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
