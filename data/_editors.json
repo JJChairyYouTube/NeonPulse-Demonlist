@@ -3,5 +3,25 @@
         "role": "Owner",
         "name": "Pulse [GD]",
         "link": "https://www.youtube.com/@PulseGMD"
+    },
+    {
+        "role": "Admin",
+        "name": "Nobody yet!",
+        "link": "https://www.youtube.com/@NeonPulseGDPS"
+    },
+    {
+        "role": "Helper",
+        "name": "Nobody yet!",
+        "link": "https://www.youtube.com/@NeonPulseGDPS"
+    },
+    {
+        "role": "Trial",
+        "name": "Nobody yet!",
+        "link": "https://www.youtube.com/@NeonPulseGDPS"
+    },
+    {
+        "role": "Dev",
+        "name": "Nobody yet!",
+        "link": "https://www.youtube.com/@NeonPulseGDPS"
     }
 ]
