@@ -1,0 +1,18 @@
+{
+    "id": 155,
+    "name": "Dementia",
+    "author": "Bazhq",
+    "creators": [],
+    "verifier": "Bazhq",
+    "verification": "https://www.youtube.com/watch?v=heXzkdO0n54",
+    "percentToQualify": "75",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "Pieces",
+            "link": "https://youtu.be/TU4eE5e7klQ",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
